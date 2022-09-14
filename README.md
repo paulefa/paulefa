@@ -42,12 +42,14 @@
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="Paul Efa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Paul Efa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Paul Efa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/paul_epha
-[instagram]: https://www.instagram.com/paulepha?igshid=YmMyMTA2M2Y=
-[linkedin]: https://linkedin.com/in/paulefa
 
+
+
+
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/paulefa/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/paul_epha"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/paulepha?igshid=YmMyMTA2M2Y="><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
