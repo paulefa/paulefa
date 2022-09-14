@@ -1,6 +1,6 @@
 <h1>Hi, I'm Paul Efa! <br/><a href="https://github.com/paulefa">Programmer</a>, <a href="https://www.linkedin.com/in/paulefa/">Ethical Hacker</a>, <a href="https://www.instagram.com/paulepha?igshid=YmMyMTA2M2Y="> Standup Comedian.</a></h1>
 
-<h2> 👨‍💻Software Development Projects : </h2>
+<h2> 👨🏾‍💻Software Development Projects : </h2>
 
 - <b>My Portfolio</b>
   - [Paul Efa's Portfolio (Flutter)](https://github.com/paulefa/KeyLog)
@@ -13,7 +13,7 @@
   - [Cisco Packet Tracer Labs](https://github.com/paulefa/Cisco-Packet-Tracer-Labs)
 
 - <b>Algorithms</b>
-  - [All LeetCode Algorithms](https://github.com/paulefa/KeyLog)
+  - [All LeetCode Algorithms](https://github.com/paulefa/Leetcode-Algorithms)
   - [Borda Count Algorithm ](https://github.com/paulefa/borda-count) (Python & Javascript)
 
 - <b>C# Programming</b>
