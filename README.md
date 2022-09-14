@@ -38,6 +38,14 @@
   - [IBM Artificial Intelligence Analyst](https://www.credly.com/badges/72568c7d-b1fb-4931-acc3-9c6ecc44b8ec?source=linked_in_profile)
 
 
+<h2> 📊 Stats : </h2>
+
+  <br/>
+    <a href="https://github.com/paulefa/github-readme-stats"><img alt="Paul Efa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=paulefa&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://Paul's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulefa&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+     <br/>
+<br/>
+<br/>
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -46,19 +54,4 @@
 <a href = "https://www.linkedin.com/in/paulefa/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/paul_epha"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/paulepha?igshid=YmMyMTA2M2Y="><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-<h2> 📊 Stats : </h2>
-
-  <br/>
-    <a href="https://github.com/paulefa/github-readme-stats"><img alt="Paul Efa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=paulefa&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://Paul's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulefa&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-     <br/>
-     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level
-<br/>
-<br/>
-
-<a href="https://github.com/paulefa/github-readme-activity-graph"><img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=paulefa&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
 
