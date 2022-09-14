@@ -27,15 +27,15 @@
 
 <h2> 📄Certifications :</h2>
 
-  - [Cybersecurity](https://github.com/paulefa/Cisco-Packet-Tracer-Labs)
+  - [Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/certificate/JT2BTK8E3RFB)
 
-  - [Google IT Support](https://github.com/paulefa/Cisco-Packet-Tracer-Labs)
+  - [Google IT Support](https://www.coursera.org/account/accomplishments/specialization/certificate/WJF6JN3WC78R)
 
-  - [IBM Cybersecurity Analyst](https://github.com/paulefa/Cisco-Packet-Tracer-Labs)
+  - [IBM Cybersecurity Analyst](https://www.coursera.org/account/accomplishments/specialization/certificate/ND944XJV9H9V)
 
-  - [IBM Security Intelligence Engineer](https://github.com/paulefa/Cisco-Packet-Tracer-Labs)
+  - [IBM Security Intelligence Engineer](https://www.credly.com/badges/c6841699-eca1-46c3-81f4-6af88303c148?source=linked_in_profile)
 
-  - [IBM Artificial Intelligence Analyst](https://github.com/paulefa/Cisco-Packet-Tracer-Labs)
+  - [IBM Artificial Intelligence Analyst](https://www.credly.com/badges/72568c7d-b1fb-4931-acc3-9c6ecc44b8ec?source=linked_in_profile)
 
 
 
